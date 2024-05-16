@@ -5,4 +5,4 @@
 
  Essa linha eu adicionei diretamente no site! Que Impressionante!
 
-Material de **Git e GitHub** disponivel Gratuitamente no canal do * YouTube* do "Curso em Video".
+Material de **Git e GitHub** disponivel Gratuitamente no canal do *YouTube* do "Curso em Video".
